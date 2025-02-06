@@ -1,5 +1,7 @@
 ---
 author: Superman!!!
+pubDatetime: 2025-02-06
+modDatetime: 2025-02-06
 title: Adding new posts in AstroPaper theme!!!
 slug: adding-new-posts-in-astropaper-theme
 featured: true
@@ -9,6 +11,9 @@ tags:
 description: Some rules & recommendations for creating or adding new posts using
   AstroPaper theme.
 ---
+## Yet more edits!!!~  
+  
+  
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
 
 ## Table of contents
@@ -157,7 +162,9 @@ When you put images in the blog post (especially for images under `public` direc
 My recommendation for image compression sites.
 
 *   [TinyPng](https://tinypng.com/)
+    
 *   [TinyJPG](https://tinyjpg.com/)
+    
 
 ### OG Image
 
